@@ -1,3 +1,3 @@
 # FinTrack
-Finance management system.
+Finance tracking system.
 
