@@ -1,3 +1,3 @@
 # FinTrack
-Personal Finance management system.
+Finance management system.
 
